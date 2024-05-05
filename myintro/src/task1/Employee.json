@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name":"Ganesh",
+        "post":"CEO",
+        "salary":100000
+    },
+    {
+        "id": 2,
+        "name":"Suresh",
+        "post":"Team Lead",
+        "salary":50000
+    },
+    {
+        "id": 3,
+        "name":"Ramesh",
+        "post":"Project Manager",
+        "salary":40000
+    },
+    {
+        "id": 4,
+        "name":"Nagesh",
+        "post":"Jr. Engineer",
+        "salary":20000
+    },
+    {
+        "id": 5,
+        "name":"Khagesh",
+        "post":"Sr. Engineer",
+        "salary":30000
+    },
+    {
+        "id": 6,
+        "name":"Bhavesh",
+        "post":"FrontEnd Developer",
+        "salary":25000
+    },
+    {
+        "id": 7,
+        "name":"Nilesh",
+        "post":"Backend Developer",
+        "salary":25000
+    },
+    {
+        "id": 8,
+        "name":"Yogesh",
+        "post":"Test Engineer",
+        "salary":20000
+    },
+    {
+        "id": 9,
+        "name":"Gopesh",
+        "post":"Jr. Analyst",
+        "salary":22000
+    },
+    {
+        "id": 10,
+        "name":"Mukesh",
+        "post":"Sr. Analyst",
+        "salary":27000
+    },
+    {
+        "id": 11,
+        "name":"Mahesh",
+        "post":"Jr. Engineer",
+        "salary":20000
+    },
+    {
+        "id": 12,
+        "name":"Survesh",
+        "post":"Sr. Engineer",
+        "salary":30000
+    },
+    {
+        "id": 13,
+        "name":"Prathamesh",
+        "post":"Team Lead",
+        "salary":50000
+    },
+    {
+        "id": 14,
+        "name":"Kirtesh",
+        "post":"Human Resource",
+        "salary":80000
+    },
+    {
+        "id": 15,
+        "name":"Umesh",
+        "post":"Project Manager",
+        "salary":40000
+    },
+    {
+        "id": 16,
+        "name":"Mangesh",
+        "post":"Intern",
+        "salary":5000
+    },
+    {
+        "id": 17,
+        "name":"Devesh",
+        "post":"Intern",
+        "salary":5000
+    },
+    {
+        "id": 18,
+        "name":"Durgesh",
+        "post":"Intern",
+        "salary":5000
+    },
+    {
+        "id": 19,
+        "name":"Rupesh",
+        "post":"Software Engineer",
+        "salary":70000
+    },
+    {
+        "id": 20,
+        "name":"Bhupesh",
+        "post":"Full Stack Developer",
+        "salary":72000
+    }
+]

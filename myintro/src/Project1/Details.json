@@ -1,0 +1,60 @@
+{
+    
+    "sachin":{
+        "Player Name": "Sachin Tendulkar",
+        "odi":"463",
+        "test":"200",
+        "t20":"1"
+    },
+    "dhoni":{
+        "Player Name": "MS Dhoni",
+        "odi":"347",
+        "test":"90",
+        "t20":"98"
+    },
+    "sehwag":{
+        "Player Name": "Virendra Sehwag",
+        "odi":"241",
+        "test":"103",
+        "t20":"19"
+    },
+    "virat":{
+        "Player Name": "Virat Kohli",
+        "odi":"292",
+        "test":"113",
+        "t20":"115"
+    },
+    "ganguly":{
+       
+    },
+    "dravid":{
+        "Player Name": "Rahul Dravid",
+        "odi":"340",
+        "test":"163",
+        "t20":"1"
+    },
+    "rohit":{
+        "Player Name": "Rohit Sharma",
+        "odi":"262",
+        "test":"54",
+        "t20":"149"
+    },
+    "yuvraj":{
+        "Player Name": "Yuvraj Singh",
+        "odi":"301",
+        "test":"40",
+        "t20":"58"
+    },
+    "dhawan":{
+        "Player Name": "Shikhar Dhawan",
+        "odi":"167",
+        "test":"34",
+        "t20":"68"
+    },
+    "raina":{
+        "Player Name": "Suresh Raina",
+        "odi":"226",
+        "test":"18",
+        "t20":"78"
+    }
+}

@@ -1,0 +1,50 @@
+.container{ 
+    width: 100%; 
+    height: 100vh; 
+    display: flex; 
+    flex-direction: column; 
+    margin-top: 30px; 
+    justify-content: center; 
+    align-items: center; 
+} 
+.box1 { 
+    width: 500px; 
+    height: 300px; 
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/499/113/152/toyota-supra-neon-lights-4k-wallpaper-preview.jpg"); 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+} 
+ 
+.box2 { 
+    width: 500px; 
+    height: 300px; 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUMMmsKd_DC-ICsF14hGczf0_z9_EgWWUB6Abexhwkig&s"); 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+} 
+ 
+.box3 { 
+    width: 500px; 
+    height: 300px; 
+    background-image: url("https://news.dupontregistry.com/wp-content/uploads/2024/02/Agera-RS-.jpg"); 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+} 
+.box4 { 
+    width: 500px; 
+    height: 300px; 
+    background-image: url("https://www.cnet.com/a/img/resize/d473f57ee08a2bf0bff3c9940f2c8381d9dc53d4/hub/2020/10/27/b84ab683-3cc0-4036-bd2a-5499d96b9ddb/bugatti-bolide-hypercar-116.jpg?auto=webp&fit=crop&height=675&width=1200"); 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}.box5 { 
+    width: 500px; 
+    height: 300px; 
+    background-image: url("https://cdn.pixabay.com/photo/2015/09/30/13/54/oldtimer-965472_1280.jpg"); 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}

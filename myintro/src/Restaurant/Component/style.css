@@ -1,0 +1,16 @@
+#card{
+    background-color: rgb(0, 0, 0);
+}
+#card:hover{
+    box-shadow: 50px 50px 50px rgba(105, 22, 119, 0.3);
+}
+img{
+    box-shadow: 0px 0px 5px rgb(255, 255, 255);
+}
+img:hover{
+    box-shadow: 0 3rem 3rem rgba(254, 86, 86, 0.3);
+    z-index: -1;
+}
+#list{
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.3);
+}

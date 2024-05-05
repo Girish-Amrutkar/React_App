@@ -1,0 +1,84 @@
+{
+    "players": [
+        {
+            "name": "Sachin Tendulkar",
+            "img" : "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/128400/128483.1.jpg",
+            "odi": "463",
+            "test": "200",
+            "t20": "1",
+            "country": "India"
+        },
+        {
+            "name": "MS Dhoni",
+            "img" : "https://cdn.britannica.com/25/222725-050-170F622A/Indian-cricketer-Mahendra-Singh-Dhoni-2011.jpg",
+            "odi": "347",
+            "test": "90",
+            "t20": "98",
+            "country": "India"
+        },
+        {
+            "name": "Virendra Sehwag",
+            "img" : "https://m.media-amazon.com/images/M/MV5BZDAzYzNjMmEtZjkzZS00MDBlLTg2MWUtNjVhYTE0MWRlMmYzXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+            "odi": "241",
+            "test": "103",
+            "t20": "19",
+            "country": "India"
+        },
+        {
+            "name": "Virat Kohli",
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSitevpaDMe6japDMzE7ieZ3H5cMBB9HI-7O91dfxsTaNKA6pWva_TQOzLRH567WAdLfb4&usqp=CAU",
+            "odi": "292",
+            "test": "113",
+            "t20": "115",
+            "country": "India"
+        },
+        {
+            "name": "Saurav Ganguly",
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-5CSV9QscjL8F2Vspv9d5IQ8xvkFX6OlWsVicthS2ygnqXn0ust5kEqLAUcgSQTcCSHI&usqp=CAU",
+            "odi": "308",
+            "test": "113",
+            "t20": "1",
+            "country": "India"
+        },
+        {
+            "name": "Yuvraj Singh",
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQG_pDV97ZUuRQILjG0SWKt9lYcO7rFapx9oj_ezTPs3acpzuoTdkB2DiP_4sZcvxJz4U&usqp=CAU",
+            "odi": "301",
+            "test": "40",
+            "t20": "58",
+            "country": "India"
+        },
+        {
+            "name": "Rahul Dravid",
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmJsheImzTSIMvUPzohFvuiz9ugC-UdbCRP8q8ZsIlVAg4jvX2BR6BzjvYo_kES6kmOUQ&usqp=CAU",
+            "odi": "340",
+            "test": "163",
+            "t20": "1",
+            "country": "India"
+        },
+        {
+            "name": "Rohit Sharma",
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6kqrE_GBzEmvOx2y6rxU2AauRf7OKrnG_VLN8q8AdYdKXYKTjK9HDQw-N3hwBxyfU1P8&usqp=CAU",
+            "odi": "262",
+            "test": "54",
+            "t20": "149",
+            "country": "India"
+        },
+        {
+            "name": "Shikhar Dhawan",
+            "img" : "https://dnd3y8e5nonx2.cloudfront.net/humans/avatars/619465/1457687253/display.jpeg",
+            "odi": "167",
+            "test": "34",
+            "t20": "68",
+            "country": "India"
+        },
+        {
+            "name": "Suresh Raina",
+            "img" : "https://www.forbesindia.com/media/list/030_BIG.jpg",
+            "odi": "226",
+            "test": "18",
+            "t20": "78",
+            "country": "India"
+        }
+    ]
+}
